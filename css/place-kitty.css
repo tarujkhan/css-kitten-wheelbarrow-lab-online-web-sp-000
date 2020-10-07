@@ -12,7 +12,7 @@ kitty-1
 /* Select the image with id of kitty-2 */
 
 /*__write_selector_here__*/ 
-img#intrdoction
+#intrdoction
 {
   position: absolute;
   z-index: 2;
