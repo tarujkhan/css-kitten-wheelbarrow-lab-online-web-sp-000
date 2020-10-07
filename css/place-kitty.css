@@ -23,7 +23,7 @@ kitty-1
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
 /*__write_selector_here__*/ 
-kitty-1 img
+basket img
 {
   position: absolute;
   z-index: 5;
